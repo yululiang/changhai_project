@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/louisyuCN/node_app#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "koa": "^2.6.2",
     "mysql": "^2.16.0"
   }
