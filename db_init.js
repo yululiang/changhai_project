@@ -1,4 +1,12 @@
+/*
+ * @Author: yululiang 
+ * @Date: 2018-11-21 17:48:25 
+ * @Last Modified by: yululiang
+ * @Last Modified time: 2018-11-21 17:50:55
+ */
+'use strict';
 let mysql = require('mysql');
+//创建连接池
 let pool = mysql.createPool({
     connectionLimit: 10,
     host: '127.0.0.1',
@@ -6,6 +14,10 @@ let pool = mysql.createPool({
     password: 'yululiang',
     database: 'test'
 });
+
+/**
+ *  获取连接
+ */
 async function getConnection() {
     console.debug('==============>获取连接');
     let con = await new Promise((resolve, reject) => {
@@ -27,10 +39,10 @@ async function getConnection() {
                 }
             });
         });
-    } 
+    };
     con.releaseTest = () => {
         con.release();
-        console.debug('==============>释放连接');
+        console.log('==============>释放连接');
     };
     return con;
 }

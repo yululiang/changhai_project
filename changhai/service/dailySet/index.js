@@ -1,0 +1,1 @@
+modult.exports.test = require('./test');
