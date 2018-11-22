@@ -22,7 +22,6 @@ global.responseFail = (error) => {
         code: -1,
     };
 };
-global.getConnection = require('./db_init');
 /**
  *service调用方法
  * @param option { data, path }
@@ -59,9 +58,10 @@ global.render = async (option) => {
         let result = await global.service({ data: req.body, path });
         res.send(responseSuccess(result));
     } catch (err) {
-        console.log(err);
+        logger.info(err);
         res.send(responseFail(err));
     }
 };
+
 module.exports = {};
-console.log('===========>global_resource load finished');
+logger.info('load global_resource -> finished');

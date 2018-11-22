@@ -8,12 +8,11 @@
 let mysql = require('mysql');
 //创建连接池
 let pool = mysql.createPool(require('./config').dbConfig);
-
 /**
  *  获取连接
  */
 async function getConnection() {
-    console.debug('==============>获取连接');
+    logger.info('db connect success');
     let con = await new Promise((resolve, reject) => {
         pool.getConnection((err, con) => {
             if (err) {
@@ -25,6 +24,8 @@ async function getConnection() {
     });
     con.queryAsync = (...args) => {
         return new Promise((resolve, reject) => {
+            logger.info('sql ->', args[0]);
+            logger.info('sqlParam ->', args[1] || []);
             con.query(...args, (err, result) => {
                 if (err)  {
                     reject(err);
@@ -35,8 +36,13 @@ async function getConnection() {
         });
     };
     con.releaseTest = () => {
-        con.release();
-        console.log('==============>释放连接');
+        try {
+            con.release();
+            logger.info('release connection -> success');
+        }  catch (err) {
+            con.end();
+            logger.info('release connection -> fail');
+        }
     };
     return con;
 }

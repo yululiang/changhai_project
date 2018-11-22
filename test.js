@@ -1,2 +1,2 @@
 let str = 'D:\\backup\\\\ecservice\\\\node_app\\\\changhai\\\\router\\\\dailySet';
-console.log(str.split('\\\\'));
+logger.info(str.split('\\\\'));

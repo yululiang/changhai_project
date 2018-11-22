@@ -12,5 +12,5 @@ global.common.getCurrentModule = (dirname) => {
     let list = dirname.split('\\');
     return list[list.length - 1];
 };
-console.log('===========>common load finished');
+logger.info('load common -> finished');
 module.exports = common;
