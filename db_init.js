@@ -7,13 +7,7 @@
 'use strict';
 let mysql = require('mysql');
 //创建连接池
-let pool = mysql.createPool({
-    connectionLimit: 10,
-    host: '127.0.0.1',
-    user: 'root',
-    password: 'yululiang',
-    database: 'test'
-});
+let pool = mysql.createPool(require('./config').dbConfig);
 
 /**
  *  获取连接

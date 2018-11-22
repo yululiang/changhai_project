@@ -23,7 +23,11 @@ global.responseFail = (error) => {
     };
 };
 global.getConnection = require('./db_init');
-//router调用service模式包含事务
+/**
+ *service调用方法
+ * @param option { data, path }
+ * @returns {Promise.<*>}
+ */
 global.service = async (option) => {
     let conn = await global.getConnection();
     try {
@@ -43,6 +47,20 @@ global.service = async (option) => {
         return Promise.reject(err);
     } finally {
         conn.releaseTest();
+    }
+};
+/**controller调用方法
+ * @param option { { path, req, res } }
+ * @returns {Promise.<void>}
+ */
+global.render = async (option) => {
+    let { path, req, res } = option;
+    try {
+        let result = await global.service({ data: req.body, path });
+        res.send(responseSuccess(result));
+    } catch (err) {
+        console.log(err);
+        res.send(responseFail(err));
     }
 };
 module.exports = {};
