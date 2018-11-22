@@ -6,7 +6,7 @@
  */
 
 'use strict';
-
+//放一些公用的方法
 global.common = {};
 global.common.getCurrentModule = (dirname) => {
     let list = dirname.split('\\');
