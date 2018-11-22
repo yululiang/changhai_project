@@ -1,0 +1,257 @@
+[2018-11-22T10:59:18.523] [INFO] oth - ===========>common load finished
+[2018-11-22T10:59:18.754] [INFO] oth - ===========>global_resource load finished
+[2018-11-22T10:59:18.754] [INFO] oth - You can find logs-files in the log-dir
+[2018-11-22T11:04:55.614] [INFO] oth - ===========>common load finished
+[2018-11-22T11:04:55.618] [INFO] oth - ===========>global_resource load finished
+[2018-11-22T11:04:55.618] [INFO] oth - ===========>app has started
+[2018-11-22T11:04:59.357] [INFO] oth - ==============>获取连接
+[2018-11-22T11:04:59.372] [INFO] oth - sql ===========> select * from user
+[2018-11-22T11:04:59.373] [INFO] oth - sqlParam ===========> []
+[2018-11-22T11:04:59.378] [INFO] oth - ==============>释放连接
+[2018-11-22T11:08:57.940] [INFO] oth - load common -> finished
+[2018-11-22T11:08:57.943] [INFO] oth - -> global_resource load finished
+[2018-11-22T11:08:57.943] [INFO] oth - app has started
+[2018-11-22T11:09:19.783] [INFO] oth - load common -> finished
+[2018-11-22T11:09:19.788] [INFO] oth - load global_resource ->   finished
+[2018-11-22T11:09:19.788] [INFO] oth - app has started
+[2018-11-22T11:09:43.204] [INFO] oth - load common -> finished
+[2018-11-22T11:09:43.208] [INFO] oth - load global_resource ->   finished
+[2018-11-22T11:09:43.208] [INFO] oth - load app -> finished
+[2018-11-22T11:09:53.992] [INFO] oth - load common -> finished
+[2018-11-22T11:09:53.995] [INFO] oth - load global_resource -> finished
+[2018-11-22T11:09:53.996] [INFO] oth - load app -> finished
+[2018-11-22T11:09:56.401] [INFO] oth - db connect success
+[2018-11-22T11:09:56.414] [INFO] oth - sql -> select * from user
+[2018-11-22T11:09:56.414] [INFO] oth - sqlParam -> []
+[2018-11-22T11:09:56.420] [INFO] oth - connection release
+[2018-11-22T11:12:15.427] [INFO] oth - load common -> finished
+[2018-11-22T11:12:15.431] [INFO] oth - load global_resource -> finished
+[2018-11-22T11:12:15.431] [INFO] oth - load app -> finished
+[2018-11-22T11:12:18.826] [INFO] oth - db connect success
+[2018-11-22T11:12:18.841] [INFO] oth - sql -> select * from user
+[2018-11-22T11:12:18.841] [INFO] oth - sqlParam -> []
+[2018-11-22T11:12:18.848] [INFO] oth - release connection -> success
+[2018-11-22T11:14:30.158] [INFO] oth - load common -> finished
+[2018-11-22T11:14:30.162] [INFO] oth - load global_resource -> finished
+[2018-11-22T11:14:30.162] [INFO] oth - load app -> finished
+[2018-11-22T11:14:36.254] [INFO] oth - db connect success
+[2018-11-22T11:14:36.270] [INFO] oth - sql -> select * from user
+[2018-11-22T11:14:36.270] [INFO] oth - sqlParam -> []
+[2018-11-22T11:14:36.276] [INFO] oth - release connection -> success
+[2018-11-22T12:47:30.760] [INFO] oth - load common -> finished
+[2018-11-22T12:47:30.763] [INFO] oth - load global_resource -> finished
+[2018-11-22T12:47:30.764] [INFO] oth - load app -> finished
+[2018-11-22T12:48:17.224] [INFO] oth - load common -> finished
+[2018-11-22T12:48:17.228] [INFO] oth - load global_resource -> finished
+[2018-11-22T12:48:17.228] [INFO] oth - load app -> finished
+[2018-11-22T12:49:23.296] [INFO] oth - load common -> finished
+[2018-11-22T12:49:23.300] [INFO] oth - load global_resource -> finished
+[2018-11-22T12:49:23.301] [INFO] oth - load app -> finished
+[2018-11-22T12:49:29.977] [INFO] oth - db connect success
+[2018-11-22T12:49:29.993] [INFO] oth - sql -> undefined
+[2018-11-22T12:49:29.993] [INFO] oth - sqlParam -> []
+[2018-11-22T12:49:29.997] [INFO] oth - release connection -> success
+[2018-11-22T12:49:29.997] [INFO] oth - { Error: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:200:25)
+    at Promise (D:\backup\ecservice\node_app\db_init.js:29:26)
+    at new Promise (<anonymous>)
+    at PoolConnection.con.queryAsync.args [as queryAsync] (D:\backup\ecservice\node_app\db_init.js:26:16)
+    at add (D:\backup\ecservice\node_app\changhai\service\dataRecord\ptInfo.js:3:16)
+    at global.service (D:\backup\ecservice\node_app\global_resource.js:38:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_EMPTY_QUERY',
+  errno: 1065,
+  sqlMessage: 'Query was empty',
+  sqlState: '42000',
+  index: 0,
+  sql: undefined }
+[2018-11-22T12:49:52.320] [INFO] oth - db connect success
+[2018-11-22T12:49:52.322] [INFO] oth - sql -> undefined
+[2018-11-22T12:49:52.323] [INFO] oth - sqlParam -> []
+[2018-11-22T12:49:52.324] [INFO] oth - release connection -> success
+[2018-11-22T12:49:52.324] [INFO] oth - { Error: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:200:25)
+    at Promise (D:\backup\ecservice\node_app\db_init.js:29:26)
+    at new Promise (<anonymous>)
+    at PoolConnection.con.queryAsync.args [as queryAsync] (D:\backup\ecservice\node_app\db_init.js:26:16)
+    at add (D:\backup\ecservice\node_app\changhai\service\dataRecord\ptInfo.js:3:16)
+    at global.service (D:\backup\ecservice\node_app\global_resource.js:38:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_EMPTY_QUERY',
+  errno: 1065,
+  sqlMessage: 'Query was empty',
+  sqlState: '42000',
+  index: 0,
+  sql: undefined }
+[2018-11-22T12:50:24.657] [INFO] oth - load common -> finished
+[2018-11-22T12:50:24.661] [INFO] oth - load global_resource -> finished
+[2018-11-22T12:50:24.661] [INFO] oth - load app -> finished
+[2018-11-22T12:50:29.618] [INFO] oth - db connect success
+[2018-11-22T12:51:10.042] [INFO] oth - sql -> undefined
+[2018-11-22T12:51:10.043] [INFO] oth - sqlParam -> []
+[2018-11-22T12:51:10.048] [INFO] oth - release connection -> success
+[2018-11-22T12:51:10.048] [INFO] oth - { Error: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (D:\backup\ecservice\node_app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (D:\backup\ecservice\node_app\node_modules\mysql\lib\Connection.js:200:25)
+    at Promise (D:\backup\ecservice\node_app\db_init.js:29:26)
+    at new Promise (<anonymous>)
+    at PoolConnection.con.queryAsync.args [as queryAsync] (D:\backup\ecservice\node_app\db_init.js:26:16)
+    at add (D:\backup\ecservice\node_app\changhai\service\dataRecord\ptInfo.js:3:16)
+    at global.service (D:\backup\ecservice\node_app\global_resource.js:38:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_EMPTY_QUERY',
+  errno: 1065,
+  sqlMessage: 'Query was empty',
+  sqlState: '42000',
+  index: 0,
+  sql: undefined }
+[2018-11-22T12:51:16.701] [INFO] oth - load common -> finished
+[2018-11-22T12:51:16.704] [INFO] oth - load global_resource -> finished
+[2018-11-22T12:51:16.704] [INFO] oth - load app -> finished
+[2018-11-22T12:51:21.647] [INFO] oth - db connect success
+[2018-11-22T12:51:21.665] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T12:51:21.665] [INFO] oth - sqlParam -> []
+[2018-11-22T12:51:21.704] [INFO] oth - release connection -> success
+[2018-11-22T13:04:17.139] [INFO] oth - load common -> finished
+[2018-11-22T13:04:17.143] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:04:17.143] [INFO] oth - load app -> finished
+[2018-11-22T13:04:24.103] [INFO] oth - db connect success
+[2018-11-22T13:04:24.116] [INFO] oth - release connection -> success
+[2018-11-22T13:04:24.117] [INFO] oth - ReferenceError: add is not defined
+    at Object.<anonymous> (D:\backup\ecservice\node_app\changhai\service\dataRecord\ptInfo.js:6:15)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at global.service (D:\backup\ecservice\node_app\global_resource.js:35:22)
+    at <anonymous>
+[2018-11-22T13:04:42.149] [INFO] oth - load common -> finished
+[2018-11-22T13:04:42.152] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:04:42.152] [INFO] oth - load app -> finished
+[2018-11-22T13:04:44.307] [INFO] oth - db connect success
+[2018-11-22T13:04:44.320] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:04:44.321] [INFO] oth - sqlParam -> []
+[2018-11-22T13:04:44.401] [INFO] oth - release connection -> success
+[2018-11-22T13:06:22.840] [INFO] oth - load common -> finished
+[2018-11-22T13:06:22.844] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:06:22.844] [INFO] oth - load app -> finished
+[2018-11-22T13:06:26.537] [INFO] oth - db connect success
+[2018-11-22T13:06:26.552] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:06:26.553] [INFO] oth - sqlParam -> []
+[2018-11-22T13:06:26.665] [INFO] oth - release connection -> success
+[2018-11-22T13:07:13.589] [INFO] oth - load common -> finished
+[2018-11-22T13:07:15.089] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:07:16.577] [INFO] oth - load app -> finished
+[2018-11-22T13:07:34.650] [INFO] oth - load common -> finished
+[2018-11-22T13:07:34.709] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:07:34.710] [INFO] oth - load app -> finished
+[2018-11-22T13:07:37.416] [INFO] oth - db connect success
+[2018-11-22T13:08:34.162] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:08:34.162] [INFO] oth - sqlParam -> []
+[2018-11-22T13:08:34.181] [INFO] oth - release connection -> success
+[2018-11-22T13:08:41.478] [INFO] oth - load common -> finished
+[2018-11-22T13:08:41.481] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:08:41.481] [INFO] oth - load app -> finished
+[2018-11-22T13:08:44.968] [INFO] oth - db connect success
+[2018-11-22T13:08:44.982] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:08:44.982] [INFO] oth - sqlParam -> []
+[2018-11-22T13:08:45.026] [INFO] oth - release connection -> success
+[2018-11-22T13:09:06.338] [INFO] oth - load common -> finished
+[2018-11-22T13:09:06.351] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:09:06.351] [INFO] oth - load app -> finished
+[2018-11-22T13:12:06.543] [INFO] oth - db connect success
+[2018-11-22T13:12:06.560] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:12:06.561] [INFO] oth - sqlParam -> []
+[2018-11-22T13:12:06.580] [INFO] oth - release connection -> success
+[2018-11-22T13:12:42.537] [INFO] oth - load common -> finished
+[2018-11-22T13:12:42.540] [INFO] oth - load global_resource -> finished
+[2018-11-22T13:12:42.540] [INFO] oth - load app -> finished
+[2018-11-22T13:12:45.958] [INFO] oth - db connect success
+[2018-11-22T13:12:45.973] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:12:45.973] [INFO] oth - sqlParam -> []
+[2018-11-22T13:12:46.068] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:12:46.068] [INFO] oth - sqlParam -> []
+[2018-11-22T13:12:46.075] [INFO] oth - release connection -> success
+[2018-11-22T13:35:00.221] [INFO] oth - init logger -> finished
+[2018-11-22T13:35:00.295] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T13:35:00.297] [INFO] oth - load common -> finished
+[2018-11-22T13:35:00.475] [INFO] oth - load app -> finished
+[2018-11-22T13:35:29.254] [INFO] oth - init logger -> finished
+[2018-11-22T13:35:29.331] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T13:35:29.333] [INFO] oth - load common -> finished
+[2018-11-22T13:35:29.514] [INFO] oth - start app by node -> finished
+[2018-11-22T13:35:42.491] [INFO] oth - init logger -> finished
+[2018-11-22T13:35:42.582] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T13:35:42.763] [INFO] oth - start app by node -> finished
+[2018-11-22T13:35:48.358] [INFO] oth - db connect success
+[2018-11-22T13:35:48.375] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:35:48.376] [INFO] oth - sqlParam -> []
+[2018-11-22T13:35:48.433] [INFO] oth - release connection -> success
+[2018-11-22T13:36:01.441] [INFO] oth - db connect success
+[2018-11-22T13:36:01.443] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:36:01.443] [INFO] oth - sqlParam -> []
+[2018-11-22T13:36:01.523] [INFO] oth - release connection -> success
+[2018-11-22T13:37:00.786] [INFO] oth - init logger -> finished
+[2018-11-22T13:37:00.871] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T13:37:01.039] [INFO] oth - start app by node -> finished
+[2018-11-22T13:37:05.746] [INFO] oth - get connection success
+[2018-11-22T13:37:05.756] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:37:05.757] [INFO] oth - sqlParam -> []
+[2018-11-22T13:37:05.810] [INFO] oth - release connection -> success
+[2018-11-22T13:37:56.247] [INFO] oth - init logger -> finished
+[2018-11-22T13:37:56.321] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T13:37:56.323] [INFO] oth - init sqls -> finished
+[2018-11-22T13:37:56.514] [INFO] oth - start app by node -> finished
+[2018-11-22T13:44:31.323] [INFO] oth - init logger -> finished
+[2018-11-22T13:44:31.402] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T13:44:31.404] [INFO] oth - init sqls -> finished
+[2018-11-22T13:44:31.569] [INFO] oth - start app by node -> finished
+[2018-11-22T13:46:21.661] [INFO] oth - init logger -> finished
+[2018-11-22T13:46:21.741] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T13:46:21.742] [INFO] oth - init sqls -> finished
+[2018-11-22T13:46:21.928] [INFO] oth - start app by node -> finished
+[2018-11-22T13:46:23.960] [INFO] oth - get connection success
+[2018-11-22T13:46:23.971] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-22T13:46:23.971] [INFO] oth - sqlParam -> []
+[2018-11-22T13:46:24.043] [INFO] oth - release connection -> success

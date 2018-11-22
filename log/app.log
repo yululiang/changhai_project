@@ -1,0 +1,38 @@
+[2018-11-22T10:41:48.268] [INFO] app - ===========>common load finished
+[2018-11-22T10:41:48.342] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:41:48.342] [INFO] app - ===========>app start over
+[2018-11-22T10:41:57.392] [INFO] app - ===========>common load finished
+[2018-11-22T10:41:57.471] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:41:57.471] [INFO] app - ===========>app start over
+[2018-11-22T10:42:02.603] [INFO] app - ==============>获取连接
+[2018-11-22T10:42:02.621] [INFO] app - sql ===========> select * from user
+[2018-11-22T10:42:02.621] [INFO] app - sqlParam ===========> []
+[2018-11-22T10:42:02.627] [INFO] app - ==============>释放连接
+[2018-11-22T10:45:12.663] [INFO] app - ===========>common load finished
+[2018-11-22T10:45:12.738] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:45:12.738] [INFO] app - 
+[2018-11-22T10:45:19.992] [INFO] app - ===========>common load finished
+[2018-11-22T10:45:20.099] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:45:20.099] [INFO] app - 
+[2018-11-22T10:45:44.041] [INFO] app - ===========>common load finished
+[2018-11-22T10:45:44.112] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:45:44.113] [DEBUG] app - ===========>app start over
+[2018-11-22T10:45:48.888] [INFO] app - ===========>common load finished
+[2018-11-22T10:45:48.965] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:45:48.965] [DEBUG] app - ===========>app start over
+[2018-11-22T10:47:28.577] [INFO] app - ===========>common load finished
+[2018-11-22T10:47:28.645] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:47:28.645] [DEBUG] app - ===========>app start over
+[2018-11-22T10:47:51.339] [INFO] app - ===========>common load finished
+[2018-11-22T10:47:51.410] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:47:51.411] [DEBUG] app - ===========>app start over
+[2018-11-22T10:47:54.655] [INFO] app - ==============>获取连接
+[2018-11-22T10:47:54.669] [INFO] app - sql ===========> select * from user
+[2018-11-22T10:47:54.670] [INFO] app - sqlParam ===========> []
+[2018-11-22T10:47:54.676] [INFO] app - ==============>释放连接
+[2018-11-22T10:48:40.233] [INFO] app - ===========>common load finished
+[2018-11-22T10:48:40.302] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:48:40.302] [INFO] app - You can find logs-files in the log-dir
+[2018-11-22T10:48:44.460] [INFO] app - ===========>common load finished
+[2018-11-22T10:48:44.529] [INFO] app - ===========>global_resource load finished
+[2018-11-22T10:48:44.529] [INFO] app - You can find logs-files in the log-dir
