@@ -24,10 +24,13 @@ async function getConnection() {
         return new Promise((resolve, reject) => {
             logger.info('sql ->', args[0]);
             logger.info('sqlParam ->', args[1] || []);
+            let startTime = new Date().getMilliseconds();
             con.query(...args, (err, result) => {
                 if (err)  {
                     reject(err);
                 } else {
+                    let endTime = new Date().getMilliseconds();
+                    logger.info('execute time->', `${(endTime - startTime)}ms`)
                     resolve(result);
                 }
             });
