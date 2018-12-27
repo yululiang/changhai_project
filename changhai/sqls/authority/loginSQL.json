@@ -1,0 +1,3 @@
+{
+    "findUserByAccount": "select code,pwd from user_account where code = ?"
+}

@@ -1,0 +1,5 @@
+[2018-12-27T13:13:47.321] [INFO] oth - init logger -> finished
+[2018-12-27T13:13:47.714] [INFO] oth - init mysql_pool -> finished
+[2018-12-27T13:13:47.719] [INFO] oth - init sqls -> finished
+[2018-12-27T13:13:48.081] [INFO] oth - load common -> finished
+[2018-12-27T13:13:48.603] [INFO] oth - start app by node -> finished

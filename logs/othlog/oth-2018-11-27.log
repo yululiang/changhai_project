@@ -1,0 +1,4 @@
+[2018-11-27T14:31:29.946] [INFO] oth - init logger -> finished
+[2018-11-27T14:31:30.232] [INFO] oth - init mysql_pool -> finished
+[2018-11-27T14:31:30.235] [INFO] oth - init sqls -> finished
+[2018-11-27T14:31:32.166] [INFO] oth - start app by node -> finished

@@ -1,0 +1,32 @@
+[2018-11-29T17:45:14.104] [INFO] oth - init logger -> finished
+[2018-11-29T17:45:14.273] [INFO] oth - init mysql_pool -> finished
+[2018-11-29T17:45:14.275] [INFO] oth - init sqls -> finished
+[2018-11-29T17:45:14.623] [INFO] oth - start app by node -> finished
+[2018-11-29T17:45:31.871] [INFO] oth - get connection success
+[2018-11-29T17:45:31.890] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-29T17:45:31.890] [INFO] oth - sqlParam -> []
+[2018-11-29T17:45:31.946] [INFO] oth - execute time-> 56ms
+[2018-11-29T17:45:31.948] [INFO] oth - release connection -> success
+[2018-11-29T17:45:36.262] [INFO] oth - get connection success
+[2018-11-29T17:45:36.265] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-29T17:45:36.266] [INFO] oth - sqlParam -> []
+[2018-11-29T17:45:36.296] [INFO] oth - execute time-> 30ms
+[2018-11-29T17:45:36.297] [INFO] oth - release connection -> success
+[2018-11-29T17:45:50.772] [INFO] oth - init logger -> finished
+[2018-11-29T17:45:50.895] [INFO] oth - init mysql_pool -> finished
+[2018-11-29T17:45:50.897] [INFO] oth - init sqls -> finished
+[2018-11-29T17:45:51.116] [INFO] oth - start app by node -> finished
+[2018-11-29T17:45:55.258] [INFO] oth - get connection success
+[2018-11-29T17:45:55.272] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-29T17:45:55.272] [INFO] oth - sqlParam -> []
+[2018-11-29T17:45:55.377] [INFO] oth - execute time-> 104ms
+[2018-11-29T17:45:55.378] [INFO] oth - release connection -> success
+[2018-11-29T17:45:58.942] [INFO] oth - get connection success
+[2018-11-29T17:45:58.946] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
+[2018-11-29T17:45:58.946] [INFO] oth - sqlParam -> []
+[2018-11-29T17:45:58.973] [INFO] oth - execute time-> 27ms
+[2018-11-29T17:45:58.975] [INFO] oth - release connection -> success
+[2018-11-29T17:48:30.168] [INFO] oth - init logger -> finished
+[2018-11-29T17:48:30.277] [INFO] oth - init mysql_pool -> finished
+[2018-11-29T17:48:30.280] [INFO] oth - init sqls -> finished
+[2018-11-29T17:48:30.499] [INFO] oth - start app by node -> finished

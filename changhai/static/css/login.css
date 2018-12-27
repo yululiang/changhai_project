@@ -1,0 +1,15 @@
+.login_form {
+    height: 300px;
+    margin: 0 auto;
+    padding-top: 200px;
+}
+
+.login_submit {
+    display: block;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.login_form div {
+    padding: 5px;
+}
