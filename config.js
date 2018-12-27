@@ -39,5 +39,11 @@ const log4jsConfig = {
         oth: { appenders: ['stdout', 'oth'], level: 'info' }
     }
 };
+
+const mongoConfig = {
+    url: 'mongodb://localhost:27017/',
+};
+
+module.exports.mongoConfig = mongoConfig;
 module.exports.dbConfig = dbConfig;
 module.exports.log4jsConfig = log4jsConfig;

@@ -12,5 +12,10 @@ global.common.getCurrentModule = (dirname) => {
     let list = dirname.split('\\');
     return list[list.length - 1];
 };
+global.md5 = (v) => {
+    const crypto = require('crypto');
+    const md5 = crypto.createHash('md5');
+    return md5.update(v).digest('hex');
+};
 logger.info('load common -> finished');
 module.exports = common;

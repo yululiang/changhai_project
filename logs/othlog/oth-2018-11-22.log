@@ -255,3 +255,95 @@
 [2018-11-22T13:46:23.971] [INFO] oth - sql -> insert into user values (0, '111', 22, '19930202')
 [2018-11-22T13:46:23.971] [INFO] oth - sqlParam -> []
 [2018-11-22T13:46:24.043] [INFO] oth - release connection -> success
+[2018-11-22T16:15:51.120] [INFO] oth - init logger -> finished
+[2018-11-22T16:15:51.199] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T16:15:51.201] [INFO] oth - init sqls -> finished
+[2018-11-22T16:15:51.373] [INFO] oth - start app by node -> finished
+[2018-11-22T16:17:51.950] [INFO] oth - init logger -> finished
+[2018-11-22T16:17:52.029] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T16:17:52.031] [INFO] oth - init sqls -> finished
+[2018-11-22T16:17:52.205] [INFO] oth - start app by node -> finished
+[2018-11-22T16:18:18.788] [INFO] oth - init logger -> finished
+[2018-11-22T16:18:18.862] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T16:18:18.864] [INFO] oth - init sqls -> finished
+[2018-11-22T16:18:19.032] [INFO] oth - start app by node -> finished
+[2018-11-22T16:18:23.308] [INFO] oth - init logger -> finished
+[2018-11-22T16:18:23.405] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T16:18:23.408] [INFO] oth - init sqls -> finished
+[2018-11-22T16:18:27.895] [INFO] oth - start app by node -> finished
+[2018-11-22T16:19:17.589] [INFO] oth - get connection success
+[2018-11-22T16:19:17.639] [INFO] oth - sql -> select * from user
+[2018-11-22T16:19:17.640] [INFO] oth - sqlParam -> []
+[2018-11-22T16:19:17.646] [INFO] oth - release connection -> success
+[2018-11-22T16:19:25.822] [INFO] oth - get connection success
+[2018-11-22T16:19:25.825] [INFO] oth - sql -> select * from user
+[2018-11-22T16:19:25.825] [INFO] oth - sqlParam -> []
+[2018-11-22T16:19:25.827] [INFO] oth - release connection -> success
+[2018-11-22T16:19:26.745] [INFO] oth - get connection success
+[2018-11-22T16:19:26.747] [INFO] oth - sql -> select * from user
+[2018-11-22T16:19:26.747] [INFO] oth - sqlParam -> []
+[2018-11-22T16:19:26.749] [INFO] oth - release connection -> success
+[2018-11-22T16:19:27.512] [INFO] oth - get connection success
+[2018-11-22T16:19:27.514] [INFO] oth - sql -> select * from user
+[2018-11-22T16:19:27.514] [INFO] oth - sqlParam -> []
+[2018-11-22T16:19:27.516] [INFO] oth - release connection -> success
+[2018-11-22T16:19:28.201] [INFO] oth - get connection success
+[2018-11-22T16:19:28.203] [INFO] oth - sql -> select * from user
+[2018-11-22T16:19:28.203] [INFO] oth - sqlParam -> []
+[2018-11-22T16:19:28.206] [INFO] oth - release connection -> success
+[2018-11-22T16:19:29.008] [INFO] oth - get connection success
+[2018-11-22T16:19:29.011] [INFO] oth - sql -> select * from user
+[2018-11-22T16:19:29.011] [INFO] oth - sqlParam -> []
+[2018-11-22T16:19:29.014] [INFO] oth - release connection -> success
+[2018-11-22T16:19:29.656] [INFO] oth - get connection success
+[2018-11-22T16:19:29.658] [INFO] oth - sql -> select * from user
+[2018-11-22T16:19:29.658] [INFO] oth - sqlParam -> []
+[2018-11-22T16:19:29.660] [INFO] oth - release connection -> success
+[2018-11-22T16:20:32.013] [INFO] oth - get connection success
+[2018-11-22T16:20:32.015] [INFO] oth - sql -> select * from user
+[2018-11-22T16:20:32.016] [INFO] oth - sqlParam -> []
+[2018-11-22T16:20:32.020] [INFO] oth - release connection -> success
+[2018-11-22T16:28:32.276] [INFO] oth - get connection success
+[2018-11-22T16:28:32.278] [INFO] oth - sql -> select * from user
+[2018-11-22T16:28:32.278] [INFO] oth - sqlParam -> []
+[2018-11-22T16:28:32.281] [INFO] oth - release connection -> success
+[2018-11-22T16:30:06.555] [INFO] oth - get connection success
+[2018-11-22T16:30:06.557] [INFO] oth - sql -> select * from user
+[2018-11-22T16:30:06.557] [INFO] oth - sqlParam -> []
+[2018-11-22T16:30:06.559] [INFO] oth - release connection -> success
+[2018-11-22T16:34:54.328] [INFO] oth - get connection success
+[2018-11-22T16:34:54.330] [INFO] oth - sql -> select * from user
+[2018-11-22T16:34:54.330] [INFO] oth - sqlParam -> []
+[2018-11-22T16:34:54.333] [INFO] oth - release connection -> success
+[2018-11-22T16:40:09.889] [INFO] oth - init logger -> finished
+[2018-11-22T16:40:09.966] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T16:40:09.968] [INFO] oth - init sqls -> finished
+[2018-11-22T16:40:10.137] [INFO] oth - start app by node -> finished
+[2018-11-22T16:40:30.141] [INFO] oth - get connection success
+[2018-11-22T16:40:30.151] [INFO] oth - sql -> select * from user
+[2018-11-22T16:40:30.151] [INFO] oth - sqlParam -> []
+[2018-11-22T16:40:30.157] [INFO] oth - release connection -> success
+[2018-11-22T17:05:52.245] [INFO] oth - get connection success
+[2018-11-22T17:05:52.246] [INFO] oth - sql -> select * from user
+[2018-11-22T17:05:52.246] [INFO] oth - sqlParam -> []
+[2018-11-22T17:05:52.248] [INFO] oth - release connection -> success
+[2018-11-22T17:22:28.057] [INFO] oth - init logger -> finished
+[2018-11-22T17:22:28.134] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T17:22:28.137] [INFO] oth - init sqls -> finished
+[2018-11-22T17:22:28.308] [INFO] oth - start app by node -> finished
+[2018-11-22T17:25:06.517] [INFO] oth - get connection success
+[2018-11-22T17:25:06.531] [INFO] oth - sql -> select * from user
+[2018-11-22T17:25:06.531] [INFO] oth - sqlParam -> []
+[2018-11-22T17:25:06.536] [INFO] oth - release connection -> success
+[2018-11-22T17:25:23.803] [INFO] oth - get connection success
+[2018-11-22T17:25:23.805] [INFO] oth - sql -> select * from user
+[2018-11-22T17:25:23.805] [INFO] oth - sqlParam -> []
+[2018-11-22T17:25:23.806] [INFO] oth - release connection -> success
+[2018-11-22T18:14:58.312] [INFO] oth - get connection success
+[2018-11-22T18:14:58.313] [INFO] oth - sql -> select * from user
+[2018-11-22T18:14:58.314] [INFO] oth - sqlParam -> []
+[2018-11-22T18:14:58.315] [INFO] oth - release connection -> success
+[2018-11-22T18:17:08.178] [INFO] oth - init logger -> finished
+[2018-11-22T18:17:08.252] [INFO] oth - init mysql_pool -> finished
+[2018-11-22T18:17:08.253] [INFO] oth - init sqls -> finished
+[2018-11-22T18:17:08.423] [INFO] oth - start app by node -> finished
