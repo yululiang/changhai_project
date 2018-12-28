@@ -1,11 +1,13 @@
 'use strict';
 //初始化配置
 const config = require('./config');
+
 //初始化日志组件
 const log4js = require('log4js');
 log4js.configure(config.log4jsConfig);
 global.logger = log4js.getLogger('oth');
 logger.info('init logger -> finished');
+
 //初始化连接
 const mysql = require('mysql');
 const pool = mysql.createPool(config.dbConfig);
@@ -20,6 +22,7 @@ async function getConnection() {
             }
         });
     });
+
     con.queryAsync = (...args) => {
         return new Promise((resolve, reject) => {
             logger.info('sql ->', args[0]);
@@ -36,6 +39,7 @@ async function getConnection() {
             });
         });
     };
+
     con.releaseTest = () => {
         try {
             con.release();
@@ -48,9 +52,11 @@ async function getConnection() {
     return con;
 }
 logger.info('init mysql_pool -> finished');
+
 //初始化sql语句
-global.sqls = require('./changhai/sqls');
+global.sqls = require('./sqls');
 logger.info('init sqls -> finished');
+
 //初始化公共参数
 const responseSuccess = (data) => {
     return {
@@ -59,24 +65,30 @@ const responseSuccess = (data) => {
         data: data,
     };
 };
+
 const responseFail = (error) => {
     return {
         msg: String(error),
         code: -1,
     };
 };
+
 /**
  *service调用方法
  * @param option { data, path }
  * @returns {Promise.<*>}
  */
 const service = async (option) => {
+
     let conn = await getConnection();
     try {
         let { data, path } = option;
-        let [dir, file, method] = path.split('.');
-        let module = require(`./changhai/service/${dir}/${file}`);
-        let fn = module[method];
+        let pack = path.split('.');
+        let method = pack.pop();
+        let packPath = '';
+        pack.forEach(d => { packPath += `${d ? `/${d}` : ''}` });
+        let module = require(`./service${packPath}`);
+        let fn = module[`${method}`];
         if (Object.prototype.toString.call(fn) === '[object AsyncFunction]') {
             let result = await fn(conn, data);
             conn.commit();
@@ -91,6 +103,7 @@ const service = async (option) => {
         conn.releaseTest();
     }
 };
+
 /**controller调用方法
  * @param option { { path, req, res } }
  * @returns {Promise.<void>}

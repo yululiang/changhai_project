@@ -4,20 +4,33 @@
  * @Last Modified by: yululiang
  * @Last Modified time: 2018-11-26 16:25:22
  */
-const init = require('./init');
-const common = require('./common');
+
+//初始化
+require('./init');
+require('./common');
+
+//express
 const express = require('express');
 const app = express();
-const bodyParser = require('body-parser');
-app.use(express.static('public'));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use('/changhai', require('./changhai/router'));
+
+//中间件
+const middleWare = require('./middleWare');
+
+//json解析
+app.use(middleWare.jsonParse);
+
+//urlencode
+app.use(middleWare.urlencode);
+
+//主路由
+app.use('/pro', require('./router'));
+
+//404
+app.use(middleWare.fileNotFound);
+
+//监听端口
 app.listen(8000);
-app.use((req, res, next) => {
-    logger.info('request ->请求无效资源');
-    let err = new Error('Not Found');
-    err.status = 404;
-    res.status(404).send(err);
-});
+
 logger.info('start app by node -> finished');
+
+

@@ -9,6 +9,10 @@ async function login(conn, data) {
 
     let { login_user, login_pwd } = data;
 
+    if (!login_user || !login_pwd) {
+        return Promise.reject('请输入正确的用户名及密码');
+    }
+
     try {
         login_pwd = md5(login_pwd);
         let result = await conn.queryAsync(sql.findUserByAccount, [login_user]);
@@ -23,8 +27,6 @@ async function login(conn, data) {
         return Promise.reject(error);
     }
 }
-
-
 
 
 module.exports.login = login;
