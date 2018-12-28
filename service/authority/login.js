@@ -3,7 +3,7 @@ const sql = sqls.authority.login;
 /**
  * 登陆
  * @param {*} conn 
- * @param {*} data 
+ * @param { login_user, login_pwd } data
  */
 async function login(conn, data) {
 

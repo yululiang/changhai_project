@@ -8,5 +8,10 @@ router.use('/dataRecord', require('./dataRecord'));
 router.post('/login.do',　async (req, res) =>　{
     return await render({ path: 'authority.login.login', req, res });
 });
+
+router.post('/register.do',　async (req, res) =>　{
+    return await render({ path: 'authority.register.register', req, res });
+});
+
 module.exports = router;
 

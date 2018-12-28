@@ -1,0 +1,533 @@
+[2018-12-28T11:17:22.894] [INFO] oth - init logger -> finished
+[2018-12-28T11:17:23.709] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:17:23.736] [INFO] oth - init sqls -> finished
+[2018-12-28T11:17:24.182] [INFO] oth - load common -> finished
+[2018-12-28T11:17:25.069] [INFO] oth - start app by node -> finished
+[2018-12-28T11:18:09.988] [INFO] oth - init logger -> finished
+[2018-12-28T11:18:10.358] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:18:10.364] [INFO] oth - init sqls -> finished
+[2018-12-28T11:18:10.600] [INFO] oth - load common -> finished
+[2018-12-28T11:18:10.944] [INFO] oth - start app by node -> finished
+[2018-12-28T11:18:29.437] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:18:29.832] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:18:37.243] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:18:52.436] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:19:31.548] [INFO] oth - init logger -> finished
+[2018-12-28T11:19:31.711] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:19:31.716] [INFO] oth - init sqls -> finished
+[2018-12-28T11:19:31.918] [INFO] oth - load common -> finished
+[2018-12-28T11:19:32.134] [INFO] oth - start app by node -> finished
+[2018-12-28T11:19:40.640] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:20:46.957] [INFO] oth - init logger -> finished
+[2018-12-28T11:20:47.067] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:20:47.071] [INFO] oth - init sqls -> finished
+[2018-12-28T11:20:47.237] [INFO] oth - load common -> finished
+[2018-12-28T11:20:47.438] [INFO] oth - start app by node -> finished
+[2018-12-28T11:20:52.703] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:21:55.658] [INFO] oth - init logger -> finished
+[2018-12-28T11:21:55.835] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:21:55.845] [INFO] oth - init sqls -> finished
+[2018-12-28T11:21:56.019] [INFO] oth - load common -> finished
+[2018-12-28T11:21:56.287] [INFO] oth - start app by node -> finished
+[2018-12-28T11:23:36.498] [INFO] oth - init logger -> finished
+[2018-12-28T11:23:36.821] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:23:36.829] [INFO] oth - init sqls -> finished
+[2018-12-28T11:23:37.261] [INFO] oth - load common -> finished
+[2018-12-28T11:23:37.767] [INFO] oth - start app by node -> finished
+[2018-12-28T11:24:37.254] [INFO] oth - init logger -> finished
+[2018-12-28T11:24:37.492] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:24:37.498] [INFO] oth - init sqls -> finished
+[2018-12-28T11:24:37.701] [INFO] oth - load common -> finished
+[2018-12-28T11:24:37.962] [INFO] oth - start app by node -> finished
+[2018-12-28T11:24:47.968] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:26:08.410] [INFO] oth - init logger -> finished
+[2018-12-28T11:26:08.684] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:26:08.690] [INFO] oth - init sqls -> finished
+[2018-12-28T11:26:08.894] [INFO] oth - load common -> finished
+[2018-12-28T11:26:09.133] [INFO] oth - start app by node -> finished
+[2018-12-28T11:26:15.847] [INFO] oth - request ->请求无效资源
+[2018-12-28T11:26:29.673] [INFO] oth - init logger -> finished
+[2018-12-28T11:26:29.873] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:26:29.882] [INFO] oth - init sqls -> finished
+[2018-12-28T11:26:30.393] [INFO] oth - load common -> finished
+[2018-12-28T11:26:30.638] [INFO] oth - start app by node -> finished
+[2018-12-28T11:29:44.223] [INFO] oth - init logger -> finished
+[2018-12-28T11:29:44.389] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T11:29:44.394] [INFO] oth - init sqls -> finished
+[2018-12-28T11:29:44.556] [INFO] oth - load common -> finished
+[2018-12-28T11:29:44.808] [INFO] oth - start app by node -> finished
+[2018-12-28T11:29:47.013] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:22:02.529] [INFO] oth - init logger -> finished
+[2018-12-28T12:22:02.664] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:22:02.669] [INFO] oth - init sqls -> finished
+[2018-12-28T12:22:02.844] [INFO] oth - load common -> finished
+[2018-12-28T12:22:03.126] [INFO] oth - start app by node -> finished
+[2018-12-28T12:22:13.470] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:28:55.250] [INFO] oth - init logger -> finished
+[2018-12-28T12:28:55.460] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:28:55.469] [INFO] oth - init sqls -> finished
+[2018-12-28T12:28:55.667] [INFO] oth - load common -> finished
+[2018-12-28T12:28:55.931] [INFO] oth - start app by node -> finished
+[2018-12-28T12:29:03.675] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:32:35.373] [INFO] oth - init logger -> finished
+[2018-12-28T12:32:35.477] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:32:35.482] [INFO] oth - init sqls -> finished
+[2018-12-28T12:32:35.637] [INFO] oth - load common -> finished
+[2018-12-28T12:32:35.860] [INFO] oth - start app by node -> finished
+[2018-12-28T12:32:43.116] [INFO] oth - get connection success
+[2018-12-28T12:32:43.136] [INFO] oth - release connection -> success
+[2018-12-28T12:32:43.136] [INFO] oth - { Error: Cannot find module './pro'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:86:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T12:44:06.763] [INFO] oth - init logger -> finished
+[2018-12-28T12:44:06.987] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:44:06.993] [INFO] oth - init sqls -> finished
+[2018-12-28T12:44:07.419] [INFO] oth - load common -> finished
+[2018-12-28T12:44:07.661] [INFO] oth - start app by node -> finished
+[2018-12-28T12:44:22.387] [INFO] oth - get connection success
+[2018-12-28T12:44:22.402] [INFO] oth - release connection -> success
+[2018-12-28T12:44:22.402] [INFO] oth - TypeError: Data must be a string or a buffer
+    at Hash.update (crypto.js:99:16)
+    at global.md5 (D:\backup\ecservice\node_app\common.js:20:16)
+    at login (D:\backup\ecservice\node_app\service\authority\login.js:13:21)
+    at service (D:\backup\ecservice\node_app\init.js:89:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-12-28T12:44:43.744] [INFO] oth - init logger -> finished
+[2018-12-28T12:44:44.020] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:44:44.030] [INFO] oth - init sqls -> finished
+[2018-12-28T12:44:44.403] [INFO] oth - load common -> finished
+[2018-12-28T12:44:44.708] [INFO] oth - start app by node -> finished
+[2018-12-28T12:44:47.266] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:44:52.230] [INFO] oth - get connection success
+[2018-12-28T12:45:07.960] [INFO] oth - release connection -> success
+[2018-12-28T12:45:07.961] [INFO] oth - TypeError: Data must be a string or a buffer
+    at Hash.update (crypto.js:99:16)
+    at global.md5 (D:\backup\ecservice\node_app\common.js:20:16)
+    at login (D:\backup\ecservice\node_app\service\authority\login.js:13:21)
+    at service (D:\backup\ecservice\node_app\init.js:89:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-12-28T12:46:33.244] [INFO] oth - init logger -> finished
+[2018-12-28T12:46:33.414] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:46:33.420] [INFO] oth - init sqls -> finished
+[2018-12-28T12:46:33.595] [INFO] oth - load common -> finished
+[2018-12-28T12:46:33.869] [INFO] oth - start app by node -> finished
+[2018-12-28T12:46:41.408] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:46:44.926] [INFO] oth - get connection success
+[2018-12-28T12:46:44.939] [INFO] oth - release connection -> success
+[2018-12-28T12:46:44.940] [INFO] oth - ReferenceError: login_user is not defined
+    at login (D:\backup\ecservice\node_app\service\authority\login.js:10:5)
+    at service (D:\backup\ecservice\node_app\init.js:89:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-12-28T12:47:13.813] [INFO] oth - init logger -> finished
+[2018-12-28T12:47:14.019] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:47:14.025] [INFO] oth - init sqls -> finished
+[2018-12-28T12:47:14.187] [INFO] oth - load common -> finished
+[2018-12-28T12:47:14.451] [INFO] oth - start app by node -> finished
+[2018-12-28T12:47:16.314] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:47:20.275] [INFO] oth - get connection success
+[2018-12-28T12:47:20.291] [INFO] oth - release connection -> success
+[2018-12-28T12:47:41.277] [INFO] oth - init logger -> finished
+[2018-12-28T12:47:41.380] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:47:41.386] [INFO] oth - init sqls -> finished
+[2018-12-28T12:47:41.597] [INFO] oth - load common -> finished
+[2018-12-28T12:47:41.835] [INFO] oth - start app by node -> finished
+[2018-12-28T12:47:44.537] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:47:48.150] [INFO] oth - get connection success
+[2018-12-28T12:47:48.163] [INFO] oth - release connection -> success
+[2018-12-28T12:47:48.163] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T12:49:05.071] [INFO] oth - get connection success
+[2018-12-28T12:49:05.073] [INFO] oth - release connection -> success
+[2018-12-28T12:49:05.073] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T12:49:39.602] [INFO] oth - get connection success
+[2018-12-28T12:49:39.603] [INFO] oth - release connection -> success
+[2018-12-28T12:49:39.603] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T12:49:42.792] [INFO] oth - get connection success
+[2018-12-28T12:49:42.793] [INFO] oth - release connection -> success
+[2018-12-28T12:49:42.793] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T12:49:48.269] [INFO] oth - init logger -> finished
+[2018-12-28T12:49:48.418] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:49:48.424] [INFO] oth - init sqls -> finished
+[2018-12-28T12:49:48.703] [INFO] oth - load common -> finished
+[2018-12-28T12:49:48.995] [INFO] oth - start app by node -> finished
+[2018-12-28T12:50:05.914] [INFO] oth - get connection success
+[2018-12-28T12:50:09.565] [INFO] oth - release connection -> success
+[2018-12-28T12:50:09.566] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T12:50:12.712] [INFO] oth - request ->请求无效资源
+[2018-12-28T12:50:27.850] [INFO] oth - get connection success
+[2018-12-28T12:50:40.734] [INFO] oth - release connection -> success
+[2018-12-28T12:50:40.734] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T12:52:08.092] [INFO] oth - get connection success
+[2018-12-28T12:52:08.923] [INFO] oth - release connection -> success
+[2018-12-28T12:52:09.689] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T12:55:54.674] [INFO] oth - init logger -> finished
+[2018-12-28T12:55:54.990] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:55:54.998] [INFO] oth - init sqls -> finished
+[2018-12-28T12:55:55.207] [INFO] oth - load common -> finished
+[2018-12-28T12:55:55.421] [INFO] oth - start app by node -> finished
+[2018-12-28T12:56:00.555] [INFO] oth - get connection success
+[2018-12-28T12:56:00.573] [INFO] oth - release connection -> success
+[2018-12-28T12:56:00.573] [INFO] oth - { Error: Cannot find module './service///authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:87:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T12:56:28.508] [INFO] oth - init logger -> finished
+[2018-12-28T12:56:28.765] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:56:28.772] [INFO] oth - init sqls -> finished
+[2018-12-28T12:56:29.101] [INFO] oth - load common -> finished
+[2018-12-28T12:56:29.343] [INFO] oth - start app by node -> finished
+[2018-12-28T12:56:32.814] [INFO] oth - get connection success
+[2018-12-28T12:56:32.826] [INFO] oth - release connection -> success
+[2018-12-28T12:56:32.827] [INFO] oth - { Error: Cannot find module './service//authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:87:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T12:57:27.178] [INFO] oth - init logger -> finished
+[2018-12-28T12:57:27.366] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:57:27.372] [INFO] oth - init sqls -> finished
+[2018-12-28T12:57:27.681] [INFO] oth - load common -> finished
+[2018-12-28T12:57:27.909] [INFO] oth - start app by node -> finished
+[2018-12-28T12:57:32.948] [INFO] oth - get connection success
+[2018-12-28T12:57:32.964] [INFO] oth - release connection -> success
+[2018-12-28T12:57:32.964] [INFO] oth - { Error: Cannot find module './serviceauthority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:87:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T12:57:52.085] [INFO] oth - init logger -> finished
+[2018-12-28T12:57:52.276] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:57:52.316] [INFO] oth - init sqls -> finished
+[2018-12-28T12:57:52.755] [INFO] oth - load common -> finished
+[2018-12-28T12:57:53.133] [INFO] oth - start app by node -> finished
+[2018-12-28T12:58:00.610] [INFO] oth - get connection success
+[2018-12-28T12:58:00.623] [INFO] oth - release connection -> success
+[2018-12-28T12:58:00.624] [INFO] oth - { Error: Cannot find module './service//authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:87:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T12:58:27.747] [INFO] oth - init logger -> finished
+[2018-12-28T12:58:27.919] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T12:58:27.933] [INFO] oth - init sqls -> finished
+[2018-12-28T12:58:28.335] [INFO] oth - load common -> finished
+[2018-12-28T12:58:28.608] [INFO] oth - start app by node -> finished
+[2018-12-28T13:01:32.072] [INFO] oth - init logger -> finished
+[2018-12-28T13:01:32.332] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:01:32.349] [INFO] oth - init sqls -> finished
+[2018-12-28T13:01:32.661] [INFO] oth - load common -> finished
+[2018-12-28T13:01:32.906] [INFO] oth - start app by node -> finished
+[2018-12-28T13:01:36.443] [INFO] oth - request ->请求无效资源
+[2018-12-28T13:01:40.350] [INFO] oth - get connection success
+[2018-12-28T13:01:40.365] [INFO] oth - release connection -> success
+[2018-12-28T13:01:40.366] [INFO] oth - { Error: Cannot find module './service//authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:88:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:04:00.007] [INFO] oth - init logger -> finished
+[2018-12-28T13:04:00.664] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:04:00.669] [INFO] oth - init sqls -> finished
+[2018-12-28T13:04:00.854] [INFO] oth - load common -> finished
+[2018-12-28T13:04:01.062] [INFO] oth - start app by node -> finished
+[2018-12-28T13:04:07.536] [INFO] oth - get connection success
+[2018-12-28T13:04:07.550] [INFO] oth - release connection -> success
+[2018-12-28T13:04:07.551] [INFO] oth - { Error: Cannot find module './service${d1}${d2}'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:90:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:04:27.045] [INFO] oth - init logger -> finished
+[2018-12-28T13:04:27.471] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:04:27.487] [INFO] oth - init sqls -> finished
+[2018-12-28T13:04:27.820] [INFO] oth - load common -> finished
+[2018-12-28T13:04:28.055] [INFO] oth - start app by node -> finished
+[2018-12-28T13:04:31.258] [INFO] oth - get connection success
+[2018-12-28T13:04:31.272] [INFO] oth - release connection -> success
+[2018-12-28T13:04:31.272] [INFO] oth - { Error: Cannot find module './service//authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:90:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:05:02.372] [INFO] oth - init logger -> finished
+[2018-12-28T13:05:02.546] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:05:02.552] [INFO] oth - init sqls -> finished
+[2018-12-28T13:05:02.809] [INFO] oth - load common -> finished
+[2018-12-28T13:05:03.155] [INFO] oth - start app by node -> finished
+[2018-12-28T13:05:08.841] [INFO] oth - get connection success
+[2018-12-28T13:05:08.856] [INFO] oth - release connection -> success
+[2018-12-28T13:05:08.856] [INFO] oth - { Error: Cannot find module './service///authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:90:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:05:54.009] [INFO] oth - init logger -> finished
+[2018-12-28T13:05:54.213] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:05:54.222] [INFO] oth - init sqls -> finished
+[2018-12-28T13:05:54.536] [INFO] oth - load common -> finished
+[2018-12-28T13:05:54.767] [INFO] oth - start app by node -> finished
+[2018-12-28T13:05:57.562] [INFO] oth - get connection success
+[2018-12-28T13:05:57.579] [INFO] oth - release connection -> success
+[2018-12-28T13:05:57.579] [INFO] oth - { Error: Cannot find module './service////authority//login//login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:90:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:06:14.991] [INFO] oth - init logger -> finished
+[2018-12-28T13:06:15.320] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:06:15.331] [INFO] oth - init sqls -> finished
+[2018-12-28T13:06:15.549] [INFO] oth - load common -> finished
+[2018-12-28T13:06:15.780] [INFO] oth - start app by node -> finished
+[2018-12-28T13:06:18.584] [INFO] oth - get connection success
+[2018-12-28T13:06:18.597] [INFO] oth - release connection -> success
+[2018-12-28T13:06:18.597] [INFO] oth - { Error: Cannot find module './service//authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:90:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:10:18.268] [INFO] oth - init logger -> finished
+[2018-12-28T13:10:18.427] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:10:18.435] [INFO] oth - init sqls -> finished
+[2018-12-28T13:10:18.762] [INFO] oth - load common -> finished
+[2018-12-28T13:10:18.998] [INFO] oth - start app by node -> finished
+[2018-12-28T13:10:28.110] [INFO] oth - get connection success
+[2018-12-28T13:10:28.124] [INFO] oth - release connection -> success
+[2018-12-28T13:10:28.124] [INFO] oth - { Error: Cannot find module './service/authority/login/login'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:92:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:11:20.559] [INFO] oth - init logger -> finished
+[2018-12-28T13:11:20.770] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:11:20.780] [INFO] oth - init sqls -> finished
+[2018-12-28T13:11:21.064] [INFO] oth - load common -> finished
+[2018-12-28T13:11:21.299] [INFO] oth - start app by node -> finished
+[2018-12-28T13:11:29.140] [INFO] oth - get connection success
+[2018-12-28T13:11:29.157] [INFO] oth - release connection -> success
+[2018-12-28T13:11:29.158] [INFO] oth - { Error: Cannot find module './service/authority/login/'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at service (D:\backup\ecservice\node_app\init.js:91:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) code: 'MODULE_NOT_FOUND' }
+[2018-12-28T13:11:41.245] [INFO] oth - init logger -> finished
+[2018-12-28T13:11:41.490] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:11:41.498] [INFO] oth - init sqls -> finished
+[2018-12-28T13:11:41.830] [INFO] oth - load common -> finished
+[2018-12-28T13:11:42.061] [INFO] oth - start app by node -> finished
+[2018-12-28T13:11:46.031] [INFO] oth - get connection success
+[2018-12-28T13:11:46.045] [INFO] oth - release connection -> success
+[2018-12-28T13:11:46.045] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T13:16:29.154] [INFO] oth - init logger -> finished
+[2018-12-28T13:16:29.568] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:16:29.578] [INFO] oth - init sqls -> finished
+[2018-12-28T13:16:29.811] [INFO] oth - load common -> finished
+[2018-12-28T13:16:30.234] [INFO] oth - start app by node -> finished
+[2018-12-28T13:16:41.766] [INFO] oth - get connection success
+[2018-12-28T13:16:41.784] [INFO] oth - release connection -> success
+[2018-12-28T13:16:41.784] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T13:21:35.933] [INFO] oth - init logger -> finished
+[2018-12-28T13:21:36.042] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:21:36.048] [INFO] oth - init sqls -> finished
+[2018-12-28T13:21:36.284] [INFO] oth - load common -> finished
+[2018-12-28T13:21:36.535] [INFO] oth - start app by node -> finished
+[2018-12-28T13:22:04.970] [INFO] oth - get connection success
+[2018-12-28T13:22:04.984] [INFO] oth - release connection -> success
+[2018-12-28T13:22:04.985] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T13:22:09.507] [INFO] oth - get connection success
+[2018-12-28T13:22:09.510] [INFO] oth - release connection -> success
+[2018-12-28T13:22:09.510] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T13:22:13.836] [INFO] oth - get connection success
+[2018-12-28T13:22:13.837] [INFO] oth - release connection -> success
+[2018-12-28T13:22:13.837] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T13:22:15.582] [INFO] oth - get connection success
+[2018-12-28T13:22:15.584] [INFO] oth - release connection -> success
+[2018-12-28T13:22:15.584] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T13:22:16.198] [INFO] oth - get connection success
+[2018-12-28T13:22:16.199] [INFO] oth - release connection -> success
+[2018-12-28T13:22:16.199] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T13:22:21.951] [INFO] oth - get connection success
+[2018-12-28T13:22:21.953] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:22:21.953] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:22:21.957] [INFO] oth - execute time-> 3ms
+[2018-12-28T13:22:21.958] [INFO] oth - release connection -> success
+[2018-12-28T13:22:21.958] [INFO] oth - login fail
+[2018-12-28T13:22:29.069] [INFO] oth - init logger -> finished
+[2018-12-28T13:22:29.225] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:22:29.232] [INFO] oth - init sqls -> finished
+[2018-12-28T13:22:29.491] [INFO] oth - load common -> finished
+[2018-12-28T13:22:29.779] [INFO] oth - start app by node -> finished
+[2018-12-28T13:22:35.241] [INFO] oth - get connection success
+[2018-12-28T13:23:10.182] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:23:10.183] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:23:10.214] [INFO] oth - execute time-> 30ms
+[2018-12-28T13:23:20.749] [INFO] oth - release connection -> success
+[2018-12-28T13:23:20.750] [INFO] oth - login fail
+[2018-12-28T13:23:30.860] [INFO] oth - get connection success
+[2018-12-28T13:23:38.461] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:23:38.461] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:23:38.463] [INFO] oth - execute time-> 1ms
+[2018-12-28T13:23:38.464] [INFO] oth - release connection -> success
+[2018-12-28T13:23:38.465] [INFO] oth - login fail
+[2018-12-28T13:23:42.226] [INFO] oth - get connection success
+[2018-12-28T13:24:27.612] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:24:27.613] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:24:27.614] [INFO] oth - execute time-> 1ms
+[2018-12-28T13:24:29.164] [INFO] oth - release connection -> success
+[2018-12-28T13:24:37.369] [INFO] oth - get connection success
+[2018-12-28T13:24:37.371] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:24:37.372] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:24:37.373] [INFO] oth - execute time-> 1ms
+[2018-12-28T13:24:37.376] [INFO] oth - release connection -> success
+[2018-12-28T13:24:38.800] [INFO] oth - get connection success
+[2018-12-28T13:24:38.801] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:24:38.802] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:24:38.802] [INFO] oth - execute time-> 0ms
+[2018-12-28T13:24:38.803] [INFO] oth - release connection -> success
+[2018-12-28T13:24:43.794] [INFO] oth - get connection success
+[2018-12-28T13:24:43.796] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:24:43.796] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:24:43.797] [INFO] oth - execute time-> 0ms
+[2018-12-28T13:24:43.798] [INFO] oth - release connection -> success
+[2018-12-28T13:27:48.457] [INFO] oth - init logger -> finished
+[2018-12-28T13:27:48.569] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:27:48.574] [INFO] oth - init sqls -> finished
+[2018-12-28T13:27:48.751] [INFO] oth - load common -> finished
+[2018-12-28T13:27:48.958] [INFO] oth - start app by node -> finished
+[2018-12-28T13:28:36.794] [INFO] oth - init logger -> finished
+[2018-12-28T13:28:36.953] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T13:28:36.957] [INFO] oth - init sqls -> finished
+[2018-12-28T13:28:37.165] [INFO] oth - load common -> finished
+[2018-12-28T13:28:37.384] [INFO] oth - start app by node -> finished
+[2018-12-28T13:28:43.315] [INFO] oth - get connection success
+[2018-12-28T13:28:43.327] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:28:43.327] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:28:43.331] [INFO] oth - execute time-> 3ms
+[2018-12-28T13:28:43.332] [INFO] oth - release connection -> success
+[2018-12-28T13:28:47.483] [INFO] oth - get connection success
+[2018-12-28T13:28:47.485] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T13:28:47.485] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T13:28:47.487] [INFO] oth - execute time-> 2ms
+[2018-12-28T13:28:47.488] [INFO] oth - release connection -> success
+[2018-12-28T13:28:47.488] [INFO] oth - login fail
+[2018-12-28T17:23:16.628] [INFO] oth - init logger -> finished
+[2018-12-28T17:23:16.735] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T17:23:16.740] [INFO] oth - init sqls -> finished
+[2018-12-28T17:23:16.913] [INFO] oth - load common -> finished
+[2018-12-28T17:23:17.114] [INFO] oth - start app by node -> finished
+[2018-12-28T17:23:37.208] [INFO] oth - request ->请求无效资源
+[2018-12-28T17:23:38.549] [INFO] oth - get connection success
+[2018-12-28T17:23:38.564] [INFO] oth - release connection -> success
+[2018-12-28T17:23:38.565] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T17:23:43.034] [INFO] oth - get connection success
+[2018-12-28T17:23:43.037] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T17:23:43.037] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T17:23:43.041] [INFO] oth - execute time-> 2ms
+[2018-12-28T17:23:43.041] [INFO] oth - release connection -> success
+[2018-12-28T17:24:44.882] [INFO] oth - init logger -> finished
+[2018-12-28T17:24:45.050] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T17:24:45.058] [INFO] oth - init sqls -> finished
+[2018-12-28T17:24:45.397] [INFO] oth - load common -> finished
+[2018-12-28T17:24:45.619] [INFO] oth - start app by node -> finished
+[2018-12-28T17:24:50.393] [INFO] oth - get connection success
+[2018-12-28T17:24:50.408] [INFO] oth - release connection -> success
+[2018-12-28T17:24:50.409] [INFO] oth - 请输入正确的用户名及密码
+[2018-12-28T17:24:56.890] [INFO] oth - get connection success
+[2018-12-28T17:24:56.892] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T17:24:56.892] [INFO] oth - sqlParam -> [ 'test' ]
+[2018-12-28T17:24:56.896] [INFO] oth - execute time-> 3ms
+[2018-12-28T17:24:56.897] [INFO] oth - release connection -> success
+[2018-12-28T17:50:56.371] [INFO] oth - init logger -> finished
+[2018-12-28T17:50:56.516] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T17:50:56.520] [INFO] oth - init sqls -> finished
+[2018-12-28T17:50:56.688] [INFO] oth - load common -> finished
+[2018-12-28T17:50:56.945] [INFO] oth - start app by node -> finished
+[2018-12-28T17:51:47.021] [INFO] oth - init logger -> finished
+[2018-12-28T17:51:47.176] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T17:51:47.183] [INFO] oth - init sqls -> finished
+[2018-12-28T17:51:47.356] [INFO] oth - load common -> finished
+[2018-12-28T17:51:47.605] [INFO] oth - start app by node -> finished
+[2018-12-28T17:58:09.409] [INFO] oth - init logger -> finished
+[2018-12-28T17:58:09.623] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T17:58:09.630] [INFO] oth - init sqls -> finished
+[2018-12-28T17:58:09.887] [INFO] oth - load common -> finished
+[2018-12-28T17:58:10.645] [INFO] oth - start app by node -> finished
+[2018-12-28T17:58:25.546] [INFO] oth - request ->请求无效资源
+[2018-12-28T17:58:39.521] [INFO] oth - get connection success
+[2018-12-28T17:58:39.660] [INFO] oth - sql -> insert into (name, code, pwd, create_time, 
+                        modify_time) user_account values (?,?,?,?,?)
+[2018-12-28T17:58:39.661] [INFO] oth - sqlParam -> [ 'ceshi',
+  'test2',
+  'ad0234829205b9033196ba818f7a872b',
+  '2018-12-28 17:58:39',
+  '2018-12-28 17:58:39' ]
+[2018-12-28T17:58:39.666] [INFO] oth - release connection -> success
+[2018-12-28T17:58:39.666] [INFO] oth - 注册失败：Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(name, code, pwd, create_time, 
+                        modify_time) user_accoun' at line 1
+[2018-12-28T17:59:47.329] [INFO] oth - init logger -> finished
+[2018-12-28T17:59:47.514] [INFO] oth - init mysql_pool -> finished
+[2018-12-28T17:59:47.520] [INFO] oth - init sqls -> finished
+[2018-12-28T17:59:47.722] [INFO] oth - load common -> finished
+[2018-12-28T17:59:47.990] [INFO] oth - start app by node -> finished
+[2018-12-28T17:59:53.766] [INFO] oth - request ->请求无效资源
+[2018-12-28T17:59:54.354] [INFO] oth - request ->请求无效资源
+[2018-12-28T17:59:54.509] [INFO] oth - request ->请求无效资源
+[2018-12-28T17:59:59.831] [INFO] oth - get connection success
+[2018-12-28T17:59:59.861] [INFO] oth - sql -> insert into user_account (name, code, pwd, create_time, 
+                        modify_time) values (?,?,?,?,?)
+[2018-12-28T17:59:59.861] [INFO] oth - sqlParam -> [ 'test2',
+  'test2',
+  'ad0234829205b9033196ba818f7a872b',
+  '2018-12-28 17:59:59',
+  '2018-12-28 17:59:59' ]
+[2018-12-28T17:59:59.977] [INFO] oth - execute time-> 116ms
+[2018-12-28T17:59:59.978] [INFO] oth - release connection -> success
+[2018-12-28T18:00:04.409] [INFO] oth - request ->请求无效资源
+[2018-12-28T18:00:13.038] [INFO] oth - get connection success
+[2018-12-28T18:00:13.041] [INFO] oth - sql -> select code,pwd from user_account where code = ?
+[2018-12-28T18:00:13.041] [INFO] oth - sqlParam -> [ 'test2' ]
+[2018-12-28T18:00:13.046] [INFO] oth - execute time-> 3ms
+[2018-12-28T18:00:13.046] [INFO] oth - release connection -> success
