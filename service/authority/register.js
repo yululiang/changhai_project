@@ -14,8 +14,18 @@ async function register(conn, data) {
         return Promise.reject('参数不完整');
     }
 
-    let sql = `insert into user_account (name, code, pwd, create_time, 
-                        modify_time) values (?,?,?,?,?)`;
+    try {
+        //重复注册检查
+        let resultSet = await conn.queryAsync(`select code from user_account where code = '${user_code}'`);
+        if (Array.isArray(resultSet) && resultSet.length > 0) {
+            return Promise.reject('用户已存在');
+        }
+
+    } catch (e) {
+        return Promise.reject(e);
+    }
+
+    let sql = `insert into user_account (name, code, pwd, create_time,modify_time) values (?,?,?,?,?)`;
     let name = user_name;
     let code = user_code;
     let pwd = md5(user_pwd);
